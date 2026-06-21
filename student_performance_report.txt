@@ -1,0 +1,21 @@
+Student Performance Report
+--------------------------
+
+Topper: Aadil - 99
+Runner-up: Jane - 92
+Average Score: 52.25
+
+Ranked Students:
+1. Aadil - 99
+2. Jane - 92
+3. John - 80
+4. Daniel - 43
+5. Rahul - 41
+6. Michael - 24
+7. Arun - 21
+8. Anu - 18
+
+Failed Students:
+Anu - 18
+Michael - 24
+Arun - 21
