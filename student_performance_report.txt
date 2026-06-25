@@ -1,21 +1,22 @@
 Student Performance Report
---------------------------
+==========================
 
-Topper: Aadil - 99
-Runner-up: Jane - 92
-Average Score: 52.25
+Topper: Aadil (99 marks)
+Runner-up: Sophia (99 marks)
+Average Score: 57.56
 
-Ranked Students:
+--- Ranked Students ---
 1. Aadil - 99
-2. Jane - 92
-3. John - 80
-4. Daniel - 43
-5. Rahul - 41
-6. Michael - 24
-7. Arun - 21
-8. Anu - 18
+2. Sophia - 99
+3. Jane - 93
+4. John - 80
+5. Daniel - 43
+6. Rahul - 41
+7. Michael - 24
+8. Arun - 21
+9. Anu - 18
 
-Failed Students:
-Anu - 18
-Michael - 24
-Arun - 21
+--- Failed Students (Below 40) ---
+• Anu - 18
+• Michael - 24
+• Arun - 21
